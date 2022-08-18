@@ -32,3 +32,12 @@
 ..... những thay đổi dev khác
 >>>>>>>> branch name
 ```
+
+5. Hướng dẫn tạo pull request
++ truy cập vào github
++ Đứng tại nhánh hiện tại (khoa_dev), tạo pull request vào nhánh development
++ click vào chức năng pull requests
++ base: nhánh muốn merge souce vào (development)
++ compare: nhánh hiện tại (khoa_dev)
++ click vào button Create Pull Requests -> sau đó bấm confirm
+
